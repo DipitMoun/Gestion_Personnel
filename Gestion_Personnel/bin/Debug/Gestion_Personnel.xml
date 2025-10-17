@@ -67,6 +67,21 @@ Gestion_Personnel
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Gestion_Personnel.My.Resources.Resources.photo_2025_10_17_20_34_07">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Personnel.My.Resources.Resources.photo_2025_10_17_20_44_59">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Personnel.My.Resources.Resources.photo_2025_10_17_20_45_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Gestion_Personnel.My.Resources.Resources.TON">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

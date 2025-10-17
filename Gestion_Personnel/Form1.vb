@@ -5,7 +5,7 @@
 
     Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
         Form2.Show()
-        Me.Close()
+        Me.Hide()
     End Sub
     Private Sub Go1_Click(sender As Object, e As EventArgs) Handles Go1.Click
         ' Récupération des valeurs entrées par l’utilisateur
